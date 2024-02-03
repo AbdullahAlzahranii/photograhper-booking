@@ -1,0 +1,53 @@
+﻿* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Poppins, sans-serif;
+}
+
+body {
+    background:linear-gradient(to right, #536976, #292e49);
+    
+}
+
+.overlayFilter {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, #536976, #292e49);
+    z-index: 1;
+}
+
+
+.container-sm {
+    background-color: white;
+    padding: 10px;
+    border-radius: 4%;
+    border: solid 2px black;
+    margin-top: 10%;
+    max-width: 800px;
+    background: rgba(255, 255, 255, 0.795);
+}
+
+ 
+
+h4 {
+    padding: 20px;
+    border-bottom: solid 2px silver;
+    margin: 5px;
+    text-align: left;
+}
+
+.form-field {
+    margin-left: 4%;
+}
+
+    .form-field .form-control {
+        max-width: 480px;
+    }
+
+.Change-plaec-btn {
+    margin-top: 3%;
+    margin-left: 4%;
+}
+

@@ -1,0 +1,107 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+li {
+    margin-top: 25px;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 5px;
+}
+
+#asideId {
+    background-color: rgb(0, 0, 0);
+}
+
+#image {
+    margin-top: 200px;
+}
+
+#PhotographerImagePerson img {
+    max-height: 200px;
+    max-width: 250px;
+}
+
+.container {
+    border-bottom: solid 3px silver;
+    border-radius: 5px;
+    margin-left: 25px;
+    padding: 65px 50px;
+    text-align: center;
+}
+
+img {
+    justify-content: center;
+    justify-items: center;
+}
+
+.PhotographerImage img {
+    max-width: 20px;
+    max-height: 250px;
+}
+
+.boxOfInfo {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+    .boxOfInfo img {
+        max-width: 284px;
+        margin-left: 25px;
+    }
+
+.boxOfImage {
+    background-color: rgba(247, 244, 244, 0.726);
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+    .boxOfImage img {
+        max-width: 300px;
+        max-height: 300px;
+        margin-left: 25px;
+    }
+
+        .boxOfImage img div {
+            margin: 0;
+            padding: 0;
+        }
+
+.TextInfo {
+    margin-right: 35%;
+}
+
+.boxOftools {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+    .boxOftools img {
+        max-width: 500px;
+        margin-left: 25px;
+    }
+
+.boxOftools {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+    .boxOftools img {
+        max-width: 500px;
+        margin-left: 25px;
+    }
+
+.boxOfBooking {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.boxOfComment {
+    margin-top: 25px;
+}
+
+    .boxOfComment .card {
+        margin-left: 10px;
+    }

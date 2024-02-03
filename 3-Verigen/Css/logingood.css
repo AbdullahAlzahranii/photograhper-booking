@@ -1,0 +1,53 @@
+﻿* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Poppins, sans-serif;
+    color:white;
+}
+body {
+    
+}
+
+
+
+.text {
+    text-align: center;
+     
+    border-bottom: 2px solid silver;
+    margin: 20px;
+}
+
+.container {
+    margin-top: 10%;
+    border-radius: 25px;
+    border: 5px solid black;
+    
+}
+
+.form-field {
+    max-width: 500px;
+    margin-top: 19px;
+}
+
+#TextBox2 {
+    border-radius: 22px;
+}
+
+.form-field input {
+    border-radius: 22px;
+}
+
+.check {
+    margin-top: 25px;
+    text-indent: 5px;
+    margin-bottom: 20px;
+}
+
+#submit {
+    margin-top: 20px;
+    margin-bottom: 22px;
+    padding-left: 100px;
+    padding-right: 100px;
+    color:white;
+}

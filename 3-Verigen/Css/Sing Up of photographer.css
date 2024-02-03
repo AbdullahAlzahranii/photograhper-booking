@@ -1,0 +1,58 @@
+﻿* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Poppins, sans-serif;
+    width: 100%;
+    position: relative;
+}
+
+body {
+    background: linear-gradient(to right, #536976, #292e49);
+    max-width: 800px;
+}
+
+.overlayFilter {
+   
+    z-index: 1;
+}
+ 
+.container-sm   {
+    background-color: white;
+    padding: 10px;
+    border-radius: 4%;
+    border: solid 2px black;
+    margin-top: 3%;
+    max-width: 500px;
+    background: rgba(255, 255, 255, 0.795);
+}
+.container-sm input
+{
+    max-width:800px;
+}
+
+h4 {
+        padding: 20px;
+        border-bottom: solid 2px silver;
+        margin: 5px;
+        text-align: left;
+}
+
+h5 {
+  padding: 20px;
+  font-size: 30px;
+  border-bottom: solid 2px silver;
+  text-align: left;
+}
+
+#dropdown-service {
+  margin-top: 20px;
+}
+
+.form-field {
+ margin-left: 4%;
+}
+
+.form-field .form-control {
+ max-width: 480px;
+}
